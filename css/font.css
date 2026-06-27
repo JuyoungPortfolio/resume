@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'appleSDGothicNeoB';
+  src: url('../assets/fonts/appleSDGothicNeoB.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'appleSDGothicNeoM';
+  src: url('../assets/fonts/appleSDGothicNeoM.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'appleSDGothicNeoL';
+  src: url('../assets/fonts/appleSDGothicNeoL.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'daughterOfFortune';
+  src: url('../assets/fonts/daughterOfFortune.ttf');
+  font-weight: normal;
+}

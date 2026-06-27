@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  -moz-user-select: none;
+       user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+i {
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  display: block;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    bottom: -50px;
+  }
+  to {
+    opacity: 1;
+    bottom: 0;
+  }
+}
+body {
+  width: 1200px;
+  margin: 0 auto;
+  font-family: "appleSDGothicNeoL", sans-serif;
+}
